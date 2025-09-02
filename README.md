@@ -16,6 +16,10 @@ This is a simple web-based password generator that creates two random passwords 
 3.  Click the "Generate passwords" button to get two new random passwords.
 4.  Click on either of the password fields to copy the password to your clipboard.
 
+OR
+
+[Click here](https://adroitnightsun.github.io/PasswordGerneratorMark-1/)
+
 ## Technologies Used
 
 *   HTML
